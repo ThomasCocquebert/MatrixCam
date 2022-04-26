@@ -2,4 +2,4 @@ import symbol as sym
 import cam
 
 sym.testSymbol()
-cam.testCv2()
+cam.testCv2bis()
